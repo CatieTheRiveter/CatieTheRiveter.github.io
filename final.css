@@ -66,8 +66,9 @@
 }
 
 h4 {
-  color: #fff;
+  color: red;
   font-family: 'Shift', sans-serif;
   font-size: 18px;
   font-weight: bold;
+  text-align: center;
 }
