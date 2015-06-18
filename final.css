@@ -55,13 +55,12 @@
 }
 
 .neighborhood-guides h2{
-    color: #393c3d;
+    color: red;
     font-size: 24px;
 
 }
 
 .neighborhood-guides p{
-    color: red;
     font-size: 15px;
     margin-bottom: 13px;    
 }
